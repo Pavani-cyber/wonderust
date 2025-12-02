@@ -27,30 +27,19 @@ Responsive UI<br>
 
 Deployed on Render<br>
 <br>
-🛠️ Tech Stack<br>
+🛠️ Tech Stack<br><br>
 *Frontend<br>
 HTML,
 CSS,
 JavaScript,
-EJS templates<br>
+EJS templates<br><br>
 *Backend<br>
-
 Node.js,
-
 Express.js,
-
 MongoDB with Mongoose,
-
 connect-mongo for session store<br>
-
+<br>
 *Dev Tools<br>
-
 Nodemon,
-
 Git & GitHub,
-
-Render Deployment<br>
-
-Responsive UI
-
-Deployed on Render
+Render Deployment
